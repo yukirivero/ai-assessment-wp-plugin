@@ -195,7 +195,7 @@ POST /wp-json/ai-assessment/v1/submit
   "answers": [
     { "item_index": 1, "category_key": "communication", "question_index": 3, "letter": "B", "points": 5, "option_text": "…" }
   ]
-}
+```
 
 ### Responses
 
