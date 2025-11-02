@@ -19,14 +19,6 @@ Shortcode-powered AI Readiness assessment that:
 - [Shortcode Usage](#shortcode-usage)
 - [Front-End Behavior](#front-end-behavior)
 - [REST API](#rest-api)
-- [Data Model / Tables](#data-model--tables)
-- [Security Notes](#security-notes)
-- [Caching Notes](#caching-notes)
-- [Styling](#styling)
-- [Troubleshooting](#troubleshooting)
-- [Development Tips](#development-tips)
-- [Changelog](#changelog)
-- [License](#license)
 
 ---
 
